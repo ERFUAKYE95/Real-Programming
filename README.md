@@ -1,3 +1,3 @@
 # hello-world
-I am Fuakye Eric Gyabeng and an NMS student working to improve on the Root Reference guide.
+I am currently working to improve on the Root Reference guide at CERN.
 Just another repository
